@@ -31,6 +31,7 @@
 
 然后使用杜邦线将下载器和板子上的接口一一接好，打开烧录软件`Progisp.exe`，设置芯片为Atmega32U4，加载`bootloader文件夹`下的`Leonardo-prod-firmware.hex`，然后加载flash
 ![download](./doc/download1.PNG)
+
 然后使用如下熔丝位
 ![download](./doc/download.PNG)
 
