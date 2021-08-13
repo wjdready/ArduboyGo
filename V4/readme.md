@@ -1,5 +1,5 @@
 ### Arduboy V4 版本
-V4 版本分成两块板子, 一个是底板, 一个是 OLED, 外壳使用[现成的]((https://s.taobao.com/search?q=%E8%BF%B7%E4%BD%A0%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97&type=p&tmhkh5=&from=sea_1_searchbutton&catId=100&spm=a2141.241046-cn.searchbar.d_2_searchbox))模型改造而来
+V4 版本分成两块板子, 一个是底板, 一个是 OLED, 外壳使用[现成的](https://s.taobao.com/search?q=%E8%BF%B7%E4%BD%A0%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B9%E5%9D%97&type=p&tmhkh5=&from=sea_1_searchbutton&catId=100&spm=a2141.241046-cn.searchbar.d_2_searchbox)模型改造而来
 
   <img width="480" src="doc/arduboy4.png"/>
   
