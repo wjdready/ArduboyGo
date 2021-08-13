@@ -6,11 +6,11 @@
   
   <img width="480" src="V2/doc/3D_front.jpg"/>
 
-  * V2 支持外置 FLASH 加载游戏, 自定义外壳
+  * V3 支持外置 FLASH 加载游戏, 自定义外壳
   
   <img width="480" src="V3/doc/arduboy3.png"/>
 
-  * V3 采用现成外壳, 类似于Arduboy
+  * V4 采用现成外壳, 类似于Arduboy
   
   <img width="480" src="V4/doc/arduboy4.png"/>
 
