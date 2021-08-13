@@ -10,7 +10,7 @@
   
   <img width="480" src="V3/doc/arduboy3.png"/>
 
-  * V4 采用现成外壳, 类似于Arduboy
+  * V4 采用现成外壳, 类似于GBA
   
   <img width="480" src="V4/doc/arduboy4.png"/>
 
