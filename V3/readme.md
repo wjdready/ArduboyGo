@@ -16,4 +16,5 @@
 
 * Bootloader
   bootloader 加入了在主界面下按 B 键关机, 这样就不再需要电源开关了。bootloader 可直接在 Arduino 中下载, 只需把 Leonardo 的 bootloader 换arduboy3k-bootloader, 然后执行烧录引导程序：
+  
   <img width="480" src="doc/下载.jpg"/>
