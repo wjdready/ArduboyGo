@@ -2,7 +2,7 @@
 
 该版本加入了 SPI FLASH, 可存储几百个游戏。
 
-![预览](doc/arduboy3.png)
+<img width="480" src="doc/arduboy3.png"/>
 
 * 文件说明
   * Gerber 用于PCB打样
@@ -16,4 +16,4 @@
 
 * Bootloader
   bootloader 加入了在主界面下按 B 键关机, 这样就不再需要电源开关了。bootloader 可直接在 Arduino 中下载, 只需把 Leonardo 的 bootloader 换arduboy3k-bootloader, 然后执行烧录引导程序：
-  ![预览](doc/下载.jpg)
+  <img width="480" src="doc/下载.jpg"/>
